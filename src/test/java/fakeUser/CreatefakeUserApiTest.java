@@ -98,5 +98,7 @@ public class CreatefakeUserApiTest {
 	
 	System.out.println("Id of the user : " +userid);
 	
+	System.out.println("Hai welcome to java");
+	
 	}
 }
